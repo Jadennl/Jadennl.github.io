@@ -1,2 +1,2 @@
 # Jadennl.github.io
-Website
+My personal website, this is a HEAVY wip.
